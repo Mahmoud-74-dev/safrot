@@ -1,5 +1,5 @@
 {
-  "name": "منيو سفروت الرسمي",
+  "name": "منيو سفروت",
   "short_name": "سفروت",
   "description": "أصل الطعم في منفلوط - كريب وساندوتش",
   "start_url": "index.html",
@@ -8,12 +8,12 @@
   "theme_color": "#ff6b00",
   "icons": [
     {
-      "src": "your-logo-here.png",
+      "src": "safrot.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "your-logo-here.png",
+      "src": "safrot.png",
       "sizes": "512x512",
       "type": "image/png"
     }

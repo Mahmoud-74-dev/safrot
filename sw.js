@@ -4,7 +4,7 @@ const assets = [
   './index.html',
   './style.css',
   './script.js',
-  './your-logo-here.png'
+  './safrot.png'
 ];
 
 self.addEventListener('install', e => {
